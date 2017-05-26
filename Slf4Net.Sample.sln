@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slf4Net.Sample.App", "Slf4Net.Sample.App\Slf4Net.Sample.App.csproj", "{74910980-9418-4498-A2CA-4A682F63A78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slf4Net.Sample.Library", "Slf4Net.Sample.Library\Slf4Net.Sample.Library.csproj", "{7FD2518B-7693-4CEA-A18F-B154B101332A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74910980-9418-4498-A2CA-4A682F63A78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74910980-9418-4498-A2CA-4A682F63A78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74910980-9418-4498-A2CA-4A682F63A78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74910980-9418-4498-A2CA-4A682F63A78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD2518B-7693-4CEA-A18F-B154B101332A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD2518B-7693-4CEA-A18F-B154B101332A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD2518B-7693-4CEA-A18F-B154B101332A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD2518B-7693-4CEA-A18F-B154B101332A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
