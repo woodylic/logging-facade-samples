@@ -97,3 +97,7 @@ class Program
 
 - [slf4net Configuration](https://github.com/ef-labs/slf4net/wiki/Configuration)
 - [Nlog wiki](https://github.com/NLog/NLog/wiki)
+
+## 更新
+
+Common.Logging是另一个logging facade，比slf4net活跃，使用方法和slf4net类似。Sample已经加入源码。
